@@ -36,12 +36,12 @@
         </nav>
         <!-- Page Header-->
         
-        <header class="masthead" style="background-image: url('assets/img/about-bg.jpg')">
+       
         <section>
         @yield('content')
         </section>
             
-        </header>
+        
         <!-- Main Content-->
         <main class="mb-4">
         <section>
